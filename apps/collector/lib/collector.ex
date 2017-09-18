@@ -1,0 +1,2 @@
+defmodule Collector do
+end
